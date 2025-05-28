@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">thread</string>
+    <string name="thread_info_template">Имя текущего потока: %1$s</string>
+    <string name="hint_total_lessons">Всего пар за месяц</string>
+    <string name="hint_study_days">Учебных дней</string>
+    <string name="btn_calculate">Рассчитать</string>
+</resources>
