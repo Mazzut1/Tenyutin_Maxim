@@ -32,4 +32,9 @@
         android:name="ru.mirea.tenyutin.mireaproject.ui.web.WebViewFragment"
         android:label="Браузер"
         tools:layout="@layout/fragment_web_view" />
+    <fragment
+        android:id="@+id/nav_work"
+        android:name="ru.mirea.tenyutin.mireaproject.ui.work.WorkFragment"
+        android:label="Фоновая задача"
+        tools:layout="@layout/fragment_work" />
 </navigation>

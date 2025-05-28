@@ -35,6 +35,7 @@ android {
 }
 
 dependencies {
+    implementation ("androidx.work:work-runtime:2.9.0")
     implementation(libs.appcompat)
     implementation(libs.material)
     implementation(libs.constraintlayout)
