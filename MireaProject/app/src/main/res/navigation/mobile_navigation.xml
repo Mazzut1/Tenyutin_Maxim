@@ -37,4 +37,22 @@
         android:name="ru.mirea.tenyutin.mireaproject.ui.work.WorkFragment"
         android:label="Фоновая задача"
         tools:layout="@layout/fragment_work" />
+
+    <fragment
+        android:id="@+id/nav_sensor"
+        android:name="ru.mirea.tenyutin.mireaproject.ui.sensor.SensorFragment"
+        android:label="Компас"
+        tools:layout="@layout/fragment_sensor" />
+
+    <fragment
+        android:id="@+id/nav_camera"
+        android:name="ru.mirea.tenyutin.mireaproject.ui.camera.CameraFragment"
+        android:label="Камера"
+        tools:layout="@layout/fragment_camera" />
+
+    <fragment
+        android:id="@+id/nav_microphone"
+        android:name="ru.mirea.tenyutin.mireaproject.ui.microphone.MicrophoneFragment"
+        android:label="Микрофон"
+        tools:layout="@layout/fragment_microphone" />
 </navigation>
