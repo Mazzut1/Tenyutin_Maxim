@@ -44,5 +44,14 @@
             android:title="Микрофон"
             android:icon="@drawable/ic_menu_microphone"/>
 
+        <item
+            android:id="@+id/nav_profile"
+            android:title="Профиль"
+            android:icon="@android:drawable/ic_menu_myplaces" />
+        <item
+            android:id="@+id/nav_file"
+            android:title="Работа с файлами"
+            android:icon="@android:drawable/ic_menu_save" />
+
     </group>
 </menu>
