@@ -58,13 +58,13 @@
 ## Модуль EmployeeDB
 В модуле EmployeeDB продемонстрирована работа с SQLite через библиотеку Room.
 **Структура:**
-•	Класс Hero — содержит поля name, power, rating.
-•	Интерфейс HeroDao — включает методы @Insert, @Query, @Update, @Delete.
-•	HeroDatabase — класс, расширяющий RoomDatabase, версия 1.
-•	App — класс, инициализирующий БД через Room.databaseBuilder(...).
+- Класс Hero — содержит поля name, power, rating.
+- Интерфейс HeroDao — включает методы @Insert, @Query, @Update, @Delete.
+- HeroDatabase — класс, расширяющий RoomDatabase, версия 1.
+- App — класс, инициализирующий БД через Room.databaseBuilder(...).
 **UI:**
-•	В MainActivity представлены кнопки для добавления, изменения, удаления и чтения записей.
-•	Пользователь может управлять «супергероями» и видеть обновлённые данные в списке.
+- В MainActivity представлены кнопки для добавления, изменения, удаления и чтения записей.
+- Пользователь может управлять «супергероями» и видеть обновлённые данные в списке.
 ![image](https://github.com/user-attachments/assets/b6a30102-f016-4951-9460-4541def59c63)
 ![image](https://github.com/user-attachments/assets/8fdfc7c0-7588-4c92-83c2-acab5cb5061c)
 ![image](https://github.com/user-attachments/assets/91d9161d-dca0-47f6-a597-78e325f648e2)
