@@ -53,5 +53,9 @@
             android:title="Работа с файлами"
             android:icon="@android:drawable/ic_menu_save" />
 
+        <item
+            android:id="@+id/nav_network"
+            android:title="Цитата"
+            android:icon="@drawable/ic_menu_share" />
     </group>
 </menu>
