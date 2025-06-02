@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "892087742743",
+    "project_id": "lressonseven",
+    "storage_bucket": "lressonseven.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892087742743:android:7f0cb33fa717e09d660752",
+        "android_client_info": {
+          "package_name": "ru.mirea.tenyutin.firebaseauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu_XKiFcGARQwcytrrjlrIGynSPmeI50M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
