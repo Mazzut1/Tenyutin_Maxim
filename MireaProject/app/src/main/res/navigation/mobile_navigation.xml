@@ -71,6 +71,6 @@
     <fragment
         android:id="@+id/nav_network"
         android:name="ru.mirea.tenyutin.mireaproject.ui.network.NetworkFragment"
-        android:label="Цитата"
+        android:label="Факт о кошках"
         tools:layout="@layout/fragment_network" />
 </navigation>
